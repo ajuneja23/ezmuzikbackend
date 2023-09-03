@@ -1,4 +1,4 @@
-# spotifystatsbackend
+# Spotify Stats (Backend)
 
 This is the backend for my spotify stats project.
 
@@ -7,3 +7,4 @@ This project is a web app that allows users to find data about their favorite so
 The backend was built using Flask, SQLite, the Spotipy API, and various libraries for tasks such as authentication, password hashing, etc. A sentiment analysis neural network was also trained using the Musical Sentiment (MuSE) dataset, which I'm currently working on integrating into the web app. This model can be found in nlpmodel.ipynb.
 
 ## Project Demo 
+See the [frontend repository](https://github.com/ajuneja23/spotifystatsfrontend) for a project demo.
