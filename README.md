@@ -1,4 +1,4 @@
-# Spotify Stats (Backend)
+# EZMuzik Backend
 
 This is the backend for my spotify stats project.
 
